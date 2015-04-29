@@ -18,7 +18,7 @@ Files:
 - Makefile: make targets for the conversion. Use if you want different file formats (RDF/XML, N3, NT).
 
 See also:
-- Hungarian WordNet in XML format: https://github.com/mmihaltz/huwn
+- Hungarian WordNet in XML format: https://github.com/dlt-rilmta/huwn
 
 License:
 GNU GENERAL PUBLIC LICENSE, Version 3, 29 June 2007
