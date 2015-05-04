@@ -12,7 +12,7 @@ from rdflib import Namespace, Graph, Literal
 from rdflib.namespace import RDF
 import sys
 import urllib
-sys.path.append('/home/mm/NYTI/PyWNXML')
+sys.path.append('../pywnxml/') # Path to pywnxml, like this until it has standard installation.
 import WNQuery
 
 # Namespaces used
