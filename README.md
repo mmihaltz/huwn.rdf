@@ -21,6 +21,8 @@ This resource links Hungarian synsets to Princeton WordNet 2.0 and 3.0 synet
 URIs (http://wordnet-rdf.princeton.edu/wn20/, http://wordnet-rdf.princeton.edu/wn30/) using Cornetto external
 equivalence relations (http://purl.org/vocabularies/cornetto/cornetto-schema.ttl).
 
+Contains 42K synsets, of which 27K are linked to Princeton (English) WN synsets. 855K RDF triples, 54K external resource links.
+
 ##Files
 - huwn.ttl.gz: Hungarian WordNet RDF in Turtle notation.
 - huwnxml2rdf.py: python3 script used to generate huwn.ttl from huwn.xml. Uses [pywnxml](https://github.com/ppke-nlpg/pywnxml) and [rdflib](http://rdflib.readthedocs.org).
@@ -28,7 +30,9 @@ equivalence relations (http://purl.org/vocabularies/cornetto/cornetto-schema.ttl
 - LICENSE.pdf: license information.
 
 ##See also
-- Hungarian WordNet in XML format: https://github.com/mmihaltz/huwn
+- Hungarian WordNet [in XML format](https://github.com/dlt-rilmta/huwn)
+- HuWN [home](http://corpus.nytud.hu/huwn/)
+- Metadata record at [datahub.io](http://datahub.io/dataset/hungarian-wordnet-rdf), [opendata.hu](http://opendata.hu/dataset/magyar-wordnet-rdf)
 
-##License:
+##License
 META-SHARE Commons BY NC ND License v1.0 (see LICENSE.pdf, or [META-SHARE licenses](http://www.meta-net.eu/meta-share/licenses))
