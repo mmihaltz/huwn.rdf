@@ -4,6 +4,8 @@ Hungarian WordNet in RDF format for the Linked Open Data cloud.
 Maintainer: Márton Miháltz <mmihaltz@gmail.com>
 
 ##Changes:
+* 2015-06-08:
+  * Generated from HuWN Release 2015-06-03
 * 2015-05-04:
   * Generated from HuWN Release 2015-04-29
   * Changed lincense to META-SHARE Commons BY NC ND License v1.0
